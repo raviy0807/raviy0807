@@ -8,12 +8,12 @@
 Few of the quotes, in-which I believe in:  
 
 '''
-* SOME PEOPLE LOOK FOR A BEAUTIFUL PLACE. OTHERS MAKE A PLACE BEAUTIFUL.*
+*Some people look for a beautiful place. Others make a place beautiful.*
 '''
   
   
 '''
-* Our choice determines what to learn and what to leave. *
+*Our choice determines what to learn and what to leave.*
 '''
 
 <!---
