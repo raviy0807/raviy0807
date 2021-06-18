@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI ethics domain, bringing interpretability to the systems, design methods for AI applications, Federated Learning and Vision Systems.
 - 🌱 I’m currently learning computational photography, Optics, and Color Science for created the AV system.
 - 💞️ I am not biased towards a particular method, branch of science or AI sub- domains. I’m happy to collaborate based on what problem you are trying to solve and how it will make system smart and scalable.
-- 📫 Feel free to reach out to me ravi.yadav@gm.com[For Research Collobration within scope of GM] and yadavra@tcd.ie [Any work outside scope of my current company].
+- 📫 Feel free to reach out to me ravi.yadav@gm.com [ For Research Collobration within scope of GM ] and yadavra@tcd.ie [ Any work outside scope of my current company ].
 
 Few of the quotes, in-which I believe in:  
 
