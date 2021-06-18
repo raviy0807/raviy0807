@@ -8,7 +8,7 @@
 Few of the quotes, in-which I believe in:  
 
 '''
-*There are people who look to beautiful places,
+*There are people who look for beautiful places,
 And there are people who makes place beautiful.*
 '''
   
